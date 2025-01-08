@@ -51,19 +51,19 @@ section {
 
 .heading span {
   font-family: 'Satisfy', cursive;
-  font-size: 3rem;
+  font-size: 4rem;
   color: var(--color-main);
 }
 
 .heading h3 {
-  font-size: 3rem;
+  font-size: 4rem;
   color: #130f40;
 }
 
 .btn {
   display: inline-block;
   margin-top: 1rem;
-  padding: .7rem 1.8rem;
+  padding: 1.7rem 2.8rem;
   font-size: 1.7rem;
   cursor: pointer;
   color: #fff;
@@ -294,7 +294,8 @@ section {
 }
 
 .shopping-cart-container .products-container .box-container .box .content h3 {
-  font-size: 2rem;
+  font-size: 4rem;
+  font-weight: 800;
   color: #130f40;
 }
 
@@ -448,13 +449,13 @@ section {
 }
 
 .home .content h3 {
-  font-size: 4rem;
+  font-size: 6rem;
   color: #130f40;
   padding-top: 1rem;
 }
 
 .home .content p {
-  font-size: 1.4rem;
+  font-size: 2rem;
   color: #666;
   line-height: 2;
   padding: 1rem 0;
@@ -544,12 +545,12 @@ section {
 
 .about .content span {
   font-family: 'Satisfy', cursive;
-  font-size: 3rem;
+  font-size: 4rem;
   color: var(--color-main);
 }
 
 .about .content .title {
-  font-size: 3rem;
+  font-size:4rem;
   padding-top: .5rem;
   color: #130f40;
 }
@@ -557,7 +558,7 @@ section {
 .about .content p {
   padding: 1rem 0;
   line-height: 2;
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   color: #666;
 }
 

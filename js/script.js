@@ -1,6 +1,6 @@
 let searchForm = document.querySelector('.search-form-container');
 
-document.querySelector('#search-btn').onclick = () =>{
+document.querySelector('#menu-btn').onclick = () =>{
     searchForm.classList.toggle('active');
     cart.classList.remove('active');    
     loginForm.classList.remove('active');

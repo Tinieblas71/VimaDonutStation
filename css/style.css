@@ -3,7 +3,7 @@
 
 :root {
   --color-main: #F4445C;
-  --second-color: #44CCF4;
+  --second-color: #00c3ff;
 }
 
 * {
@@ -1079,6 +1079,17 @@ section {
 
 .footer .bottom .credit span {
   color: var(--color-main);
+}
+
+.footer .bottom .credit span a {
+  color: var(--color-main);
+  text-decoration: none;
+  border-bottom: 1px solid var(--second-color);
+}
+
+.footer .bottom .credit span a:hover {
+  color: var(--second-color);
+  border-bottom: 1px solid var(--color-main);
 }
 
 @media (max-width: 991px) {
